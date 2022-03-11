@@ -1,0 +1,11 @@
+1|Cimento|kilogram|100|Cimsa
+2|Deterjan|paket|10|Omo
+3|SodaKulu|litre|50|SodaSanayi
+4|Celik|ton|500|Erdemir
+5|Araba|adet|500|Togg
+6|Kitap|adet|1000|Kronik
+7|Lamba|adet|626|Tekzen
+8|Cam|kilogram|1762|SiseCam
+
+
+
